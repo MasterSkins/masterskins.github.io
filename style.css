@@ -1,0 +1,219 @@
+body {
+	background-color: #212121;
+}
+
+#main {
+	max-width: 1415px;
+	min-width: 200px;
+	height: 100%;
+	display: block;
+	margin-left:auto;
+	margin-right:auto;
+	margin-bottom: 100px;
+	background-color: #534D4D;
+	border-radius: 2px;
+	padding-top: 4px;
+	padding-left: 4px;
+	padding-right: 4px;
+	padding-bottom: 4px;
+}
+
+#header img {
+	max-width: 100%;
+	min-width: 200px;
+	display:flex;
+	border-radius: 2px 2px 0px 0px;
+}
+
+#menu {
+	display: flex;
+	opacity: 0.7;
+	background-color: #191919;
+	height: 30px;
+	max-width: 100%;
+	min-width: 200px;
+	padding-top: 4px;
+	padding-bottom: 2px;
+	margin-top: -36px;
+}
+
+.boton {
+	display: block;
+	text-align: center;
+	background-color: #000000;
+	padding-left: 23px;
+	padding-right: 23px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	margin-left: 4px; 
+	color: #ffffff; /*color texto*/
+	font-size: 20px;
+	font-family: fantasy;
+	text-decoration: none; /*decoración texto*/
+	text-transform: uppercase; /*capitalización texto*/
+	border-radius: 1px; /*bordes redondos*/
+}
+
+#content {
+	display: flex;
+
+}
+
+#divmenu {
+	width: 15%;
+	min-width: 150px;
+	height: 100%;
+	display: block;
+	border-radius: 0px 0px 2px 2px;
+	margin-right: 4px; 
+	background-color: #7C7C7C;
+	padding-right: 4px;
+	padding-left: 4px;
+	padding-top: 8px;
+	align-content: center;
+	
+}
+
+.bmenu {
+	background-color: #B2B1B1;
+	display: block;
+	text-decoration: none;
+	color: #212121;
+	padding-left: 10px;
+	margin-top: 4px;
+	margin-bottom: 4px;
+	border-radius: 2px;
+	font-family: fantasy;
+}
+
+#divcont {
+	width: 85%;
+	height: 100%;
+	display: block;
+	border-radius: 0px 0px 2px 2px;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 8px;
+	padding-bottom: 8px;
+	background-color: #7C7C7C
+}
+
+#divcontshop {
+	width: 85%;
+	height: 100%;
+	display: flex;
+	border-radius: 0px 0px 2px 2px;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 8px;
+	padding-bottom: 8px;
+	background-color: #7C7C7C
+}
+
+#divcontshop img {
+	width: 100%;
+}
+
+#lista {
+	text-align: left;
+}
+
+#lista button {
+	background: gold;
+	width: 280px;
+	height: 30px;
+}
+
+.textcontent {
+background-color: #B2B1B1;
+	display: block;
+	text-decoration: none;
+	color: #212121;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 4px;
+	padding-bottom: 4px;
+	margin-top: 4px;
+	margin-bottom: 8px;
+	border-radius: 2px;
+}
+
+.textshop {
+	background-color: #B2B1B1;
+	display: block;
+	text-decoration: none;
+	color: #212121;
+	width: 100%;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 4px;
+	padding-bottom: 4px;
+	border-radius: 2px;
+}
+
+#alert {
+	display: flex;
+}
+
+#alert img {
+	padding-top: 17px;
+	width: 45px;
+	height: 45px;
+}
+
+#novedad h2 {
+	background: #666666;
+}
+
+#ELSyADDON {
+	display: flex;
+	flex-direction: column;
+}
+
+#ELS {
+	padding-left: 20px;
+	padding-right: 20px;
+	background-color: #B2B1B1;
+}
+
+#listavent {
+	padding-left: 20px;
+}
+
+#elsimages {
+	display: flex;
+	height: 175px;
+	width: 400px;
+}
+
+#elsimages img {
+	padding-left: 70px;
+}
+
+#replaceaddon {
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	background-color: #B2B1B1;
+}
+
+#footer {
+	text-align: center;
+	width: 98%;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 100px;
+	position:absolute; 
+	height: 10em; 
+	font-size: 12px;
+	color: grey;
+	text-decoration: none;
+}
+
+#footer a {
+	color: grey;
+	text-decoration: none;
+	margin-right: 5px;
+}
+
