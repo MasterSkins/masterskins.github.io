@@ -151,6 +151,69 @@ background-color: #B2B1B1;
 	border-radius: 2px;
 }
 
+#marcalogo {
+	display: flex;
+}
+
+#bmw img {
+	height: 140px;
+	width: 140px;
+}
+
+#eurocopter img	{
+	height: 140px;
+	width: 140px;
+}
+
+#ford img {
+	padding-top: 20px;
+	height: 70px;
+	width: 150px;
+}
+
+#kia img {
+	height: 120px;
+	width: 150px;
+}
+
+#landrover img {
+	height: 100px;
+	width: 150px;
+	margin-top: 20px;
+}
+
+#mbenz img {
+	height: 140px;
+	width: 150px;
+}
+
+#mitsubishi img	{
+	height: 130px;
+	width: 150px;
+}
+
+#skoda img	{
+	height: 130px;
+	width: 160px;
+}
+
+#toyota img	{
+	height: 130px;
+	width: 150px;
+}
+
+#vw img {
+	height: 140px;
+	width: 140px;
+}
+
+#volvo img {
+	padding-left: -20px;
+	padding-right: -20px;
+	height: 140px;
+	width: 140px;
+}
+
 #alert {
 	display: flex;
 }
@@ -182,12 +245,12 @@ background-color: #B2B1B1;
 
 #elsimages {
 	display: flex;
-	height: 175px;
-	width: 400px;
 }
 
 #elsimages img {
 	padding-left: 70px;
+	height: 175px;
+	width: 400px;
 }
 
 #replaceaddon {
