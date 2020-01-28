@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-->
+	<skin>
+		<marca></marca>
+		<logomarca>./informacion_files/***.png</logomarca>
+		<titulo></titulo>
+		<imagen>./informacion_files/***.png</imagen>
+		<punto1></punto1>
+		<punto2></punto2>
+		<punto3></punto3>
+		<punto4></punto4>
+        <link></link>
+	</skin>
+--> 
+<skins>
+    <skin>
+		<marca>rcv</marca>
+		<logomarca>./informacion_files/rcv-logo.png</logomarca>
+		<titulo>Antidisturbios Manguera - Guardia Civil</titulo>
+		<imagen>./informacion_files/3riot2gc.png</imagen>
+		<punto1>Policía - Guardia Civil</punto1>
+		<punto2>4 plazas</punto2>
+		<punto3>Replace (riot2)</punto3>
+		<punto4>No ELS</punto4>
+        <link></link>
+	</skin>
+</skins>

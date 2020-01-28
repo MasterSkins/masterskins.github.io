@@ -1,0 +1,11 @@
+	<skin>
+		<marca></marca>
+		<logomarca>./informacion_files/***.png</logomarca>
+		<titulo></titulo>
+		<imagen>./informacion_files/***.png</imagen>
+		<punto1></punto1>
+		<punto2></punto2>
+		<punto3></punto3>
+		<punto4></punto4>
+        <link></link>
+	</skin>

@@ -1,0 +1,371 @@
+body {
+	background-color: #9cb3d6;
+}
+* {
+	padding: 0px;
+	margin: 0px;
+}
+
+#menu {
+	margin: auto;
+	text-align: center;
+}
+
+ul, ol {
+	list-style: none;
+}
+
+.navi li a {
+	background-color: white;
+	color: #00378f;
+	text-decoration: none;
+	display: block;
+}
+
+.navi li a:hover {
+	background-color: #4970ad;
+	color: white;
+}
+
+.navi > li {
+	float: left;
+}
+
+.navi li ul {
+	display: none;
+	position: absolute;
+	max-width: 152px;
+}
+
+.navi li:hover > ul{
+	display: block;
+}
+
+.navi li ul li {
+	position: relative;
+}
+
+.navi li ul li ul {
+	right:-154px;
+	max-width: 190px;
+	top:0px;
+	opacity: 0,7;
+}
+
+#main {
+	max-width: 1415px;
+	min-width: 200px;
+	height: 100%;
+	display: block;
+	margin-left:auto;
+	margin-right:auto;
+	margin-bottom: 100px;
+	background-color: #ffffff;
+	border-radius: 2px;
+	padding-top: 4px;
+	padding-left: 4px;
+	padding-right: 4px;
+	padding-bottom: 4px;
+}
+
+#header img {
+	max-width: 100%;
+	min-width: 200px;
+	display:flex;
+	border-radius: 2px 2px 0px 0px;
+}
+
+#menu {
+	display: flex;
+	opacity: 0.7;
+	background-color: #191919;
+	height: 30px;
+	max-width: 100%;
+	min-width: 200px;
+	padding-top: 4px;
+	padding-bottom: 2px;
+	margin-top: -36px;
+}
+
+.boton {
+	display: block;
+	text-align: center;
+	background-color: yellow;
+	padding-left: 18px;
+	padding-right: 18px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	margin-left: 4px; 
+	color: red; /*color texto*/
+	font-size: 18px;
+	font-family: fantasy;
+	text-decoration: none; /*decoración texto*/
+	border-radius: 10px; /*bordes redondos*/
+}
+
+#content {
+	display: flex;
+
+}
+
+#divmenu {
+	width: 15%;
+	min-width: 150px;
+	height: 100%;
+	display: block;
+	border-radius: 0px 0px 2px 2px;
+	margin-right: 4px; 
+	background-color: #ffffff;
+	padding-right: 4px;
+	padding-left: 4px;
+	padding-top: 8px;
+	align-content: center;
+	
+}
+
+#imagenescoches {
+	width: 35%;
+}
+
+.bmenu {
+	background-color: #a2beeb;
+	display: block;
+	text-decoration: none;
+	color: #212121;
+	padding-left: 10px;
+	margin-top: 4px;
+	margin-bottom: 4px;
+	border-radius: 2px;
+	font-family: fantasy;
+}
+
+.bsubmenu {
+	background-color: #B2B1B1;
+	display: block;
+	text-decoration: none;
+	text-align: left;
+	color: #212121;
+	padding-left: 10px;
+	margin-top: 4px;
+	margin-bottom: 4px;
+	border-radius: 2px;
+	font-family: fantasy;
+}
+
+#divcont {
+	width: 85%;
+	height: 100%;
+	display: block;
+	border-radius: 0px 0px 2px 2px;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 8px;
+	padding-bottom: 8px;
+	background-color: #7C7C7C
+}
+
+#divcontshop {
+	width: 85%;
+	height: 100%;
+	display: flex;
+	border-radius: 0px 0px 2px 2px;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 8px;
+	padding-bottom: 8px;
+	background-color: #ffffff;
+	border-left: #a1a1a1 4px solid;
+}
+
+#divcontshop img {
+	width: 100%;
+}
+
+#lista {
+	text-align: left;
+}
+
+#lista button {
+	background: gold;
+	width: 280px;
+	height: 30px;
+}
+
+.textcontent {
+	background-color: #ffffff;
+	display: block;
+	text-decoration: none;
+	color: #212121;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 4px;
+	padding-bottom: 4px;
+	margin-top: 4px;
+	margin-bottom: 8px;
+	border-radius: 2px;
+	border: #a2beeb 2px solid;
+	border-top-left-radius: 20px;
+  	border-bottom-right-radius: 20px;
+}
+
+.textcontent img {
+	min-width: 300px;
+	min-height: 170px;
+	max-width: 300px;
+	max-height: 170px;
+}
+
+.textcontent a {
+	text-decoration: 
+	color: black;
+}
+
+.textshop {
+	background-color: #B2B1B1;
+	display: block;
+	text-decoration: none;
+	color: #212121;
+	width: 100%;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 4px;
+	padding-bottom: 4px;
+	border-radius: 2px;
+}
+
+.marcalogo {
+	border: #a2beeb 2px solid;
+	border-top-right-radius: 20px;
+  	border-bottom-left-radius: 20px;
+}
+
+h2 {
+	font-size: 40px;
+	vertical-align: middle;
+}
+
+#bmw img {
+	height: 140px;
+	width: 140px;
+}
+
+#eurocopter img	{
+	height: 140px;
+	width: 140px;
+}
+
+#ford img {
+	padding-top: 20px;
+	height: 70px;
+	width: 150px;
+}
+
+#kia img {
+	height: 120px;
+	width: 150px;
+}
+
+#landrover img {
+	height: 100px;
+	width: 150px;
+	margin-top: 20px;
+}
+
+#mbenz img {
+	height: 140px;
+	width: 150px;
+}
+
+#mitsubishi img	{
+	height: 130px;
+	width: 150px;
+}
+
+#skoda img	{
+	height: 130px;
+	width: 160px;
+}
+
+#toyota img	{
+	height: 130px;
+	width: 150px;
+}
+
+#vw img {
+	height: 140px;
+	width: 140px;
+}
+
+#volvo img {
+	padding-left: -20px;
+	padding-right: -20px;
+	height: 140px;
+	width: 140px;
+}
+
+#alert {
+	display: flex;
+}
+
+#alert img {
+	padding-top: 17px;
+	width: 45px;
+	height: 45px;
+}
+
+#novedad h2 {
+	background: #666666;
+}
+
+#ELSyADDON {
+	display: flex;
+	flex-direction: column;
+}
+
+#ELS {
+	padding-left: 20px;
+	padding-right: 20px;
+	background-color: #B2B1B1;
+}
+
+#listavent {
+	padding-left: 20px;
+}
+
+#elsimages {
+	display: flex;
+}
+
+#elsimages img {
+	padding-left: 70px;
+	height: 175px;
+	width: 400px;
+}
+
+#replaceaddon {
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	background-color: #B2B1B1;
+}
+
+#footer {
+	text-align: center;
+	width: 98%;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 100px;
+	position:absolute; 
+	height: 10em; 
+	font-size: 12px;
+	color: grey;
+	text-decoration: none;
+}
+
+#footer a {
+	color: grey;
+	text-decoration: none;
+	margin-right: 5px;
+}
+

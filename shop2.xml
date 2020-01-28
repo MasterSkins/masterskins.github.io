@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+	<skin>
+		<marca></marca>
+		<logomarca>./informacion_files/***.png</logomarca>
+		<titulo></titulo>
+		<imagen>./informacion_files/***.png</imagen>
+		<punto1></punto1>
+		<punto2></punto2>
+		<punto3></punto3>
+		<punto4></punto4>
+        <link></link>
+	</skin>--> 
+<skins>
+    <skin>
+		<marca>bmw</marca>
+		<logomarca>./informacion_files/bmw-logo.png</logomarca>
+		<titulo>BMW M2 Competition -  Cuerpo Nacional de Policía</titulo>
+		<imagen>./informacion_files/2bmwm2cnp.png</imagen>
+		<punto1>Policía - Cuerpo Nacional de Policía</punto1>
+		<punto2>2 plazas</punto2>
+		<punto3>Replace (police2)</punto3>
+		<punto4>ELS</punto4>
+        <link>https://discord.gg/v9YAJxS</link>
+	</skin>
+	<skin>
+		<marca>bmw</marca>
+		<logomarca>./informacion_files/bmw-logo.png</logomarca>
+		<titulo>BMW M5 F90 -  Cuerpo Nacional de Policía</titulo>
+		<imagen>./informacion_files/2bmwm5cnp.png</imagen>
+		<punto1>Policía - Cuerpo Nacional de Policía</punto1>
+		<punto2>4 plazas</punto2>
+		<punto3>Replace (police2)</punto3>
+		<punto4>ELS</punto4>
+        <link>https://discord.gg/pCrEjmt</link>
+	</skin>
+	<skin>
+		<marca>landrover</marca>
+		<logomarca>./informacion_files/land-rover-logo.png</logomarca>
+		<titulo>Range Rover SVR -  Cuerpo Nacional de Policia</titulo>
+		<imagen>./informacion_files/2rangerovercnp.png</imagen>
+		<punto1>Policía - Cuerpo Nacional de Policía</punto1>
+		<punto2>4 plazas</punto2>
+		<punto3>Replace (sheriff)</punto3>
+		<punto4>ELS</punto4>
+        <link>https://discord.gg/XD2p94N</link>
+	</skin>
+	<skin>
+		<marca>mbenz</marca>
+		<logomarca>./informacion_files/mercedes-benz-logo.png</logomarca>
+		<titulo>Mercedes CLA 45 -  Cuerpo Nacional de Policía</titulo>
+		<imagen>./informacion_files/2mercedescla45cnp.png</imagen>
+		<punto1>Policía - Cuerpo Nacional de Policía</punto1>
+		<punto2>4 plazas</punto2>
+		<punto3>Add-on</punto3>
+		<punto4>No ELS</punto4>
+        <link>https://discord.gg/t9Wn3ED</link>
+	</skin>
+	<skin>
+		<marca>mbenz</marca>
+		<logomarca>./informacion_files/mercedes-benz-logo.png</logomarca>
+		<titulo>2014 Mercedes CLA 45 AMG -  Cuerpo Nacional de Policía</titulo>
+		<imagen>./informacion_files/2mercedescla45amgcnp.png</imagen>
+		<punto1>Policía - Cuerpo Nacional de Policía</punto1>
+		<punto2>4 plazas</punto2>
+		<punto3>Replace (police2)</punto3>
+		<punto4>ELS</punto4>
+        <link>https://discord.gg/42VxWQZ</link>
+	</skin>
+	<skin>
+		<marca>mbenz</marca>
+		<logomarca>./informacion_files/mercedes-benz-logo.png</logomarca>
+		<titulo>2016 Mercedes Vito -  Cuerpo Nacional de Policía</titulo>
+		<imagen>./informacion_files/2mercedesvito2016cnp.png</imagen>
+		<punto1>Policía - Cuerpo Nacional de Policía</punto1>
+		<punto2>4 plazas</punto2>
+		<punto3>Replace (police3)</punto3>
+		<punto4>ELS</punto4>
+        <link>https://discord.gg/QbtWQmW</link>
+	</skin>
+	<skin>
+		<marca>mitsubishi</marca>
+		<logomarca>./informacion_files/mitsubishi-logo.png</logomarca>
+		<titulo>2018 Mitsubishi Outlander -  Cuerpo Nacional de Policía</titulo>
+		<imagen>./informacion_files/mitsubishioutlandercnp.png</imagen>
+		<punto1>Policía - Cuerpo Nacional de Policía</punto1>
+		<punto2>4 plazas</punto2>
+		<punto3>Add-On</punto3>
+		<punto4>ELS</punto4>
+        <link>https://discord.gg/WXeHeSv</link>
+	</skin>
+	<skin>
+		<marca>skoda</marca>
+		<logomarca>./informacion_files/skoda-logo.png</logomarca>
+		<titulo>Skoda Octavia VRS -  Cuerpo Nacional de Policía</titulo>
+		<imagen>./informacion_files/2skodaoctaviacnp.png</imagen>
+		<punto1>Policía - Cuerpo Nacional de Policía</punto1>
+		<punto2>4 plazas</punto2>
+		<punto3>Add-on</punto3>
+		<punto4>ELS</punto4>
+        <link>https://discord.gg/CWKUWzv</link>
+	</skin>
+	<skin>
+		<marca>toyota</marca>
+		<logomarca>./informacion_files/toyota-logo.png</logomarca>
+		<titulo>Toyota Land Cruiser Prado -  Cuerpo Nacional de Policía</titulo>
+		<imagen>./informacion_files/2toyotalandcruisercnp.png</imagen>
+		<punto1>Policía - Cuerpo Nacional de Policía</punto1>
+		<punto2>4 plazas</punto2>
+		<punto3>Replace (sheriff2)</punto3>
+		<punto4>ELS</punto4>
+        <link>https://discord.gg/tw3X2rY</link>
+	</skin>
+	<skin>
+		<marca>volvo</marca>
+		<logomarca>./informacion_files/volvo-logo.png</logomarca>
+		<titulo>2017 Volvo XC90 R -  Cuerpo Nacional de Policía</titulo>
+		<imagen>./informacion_files/2volvoxc90cnp.png</imagen>
+		<punto1>Policía - Cuerpo Nacional de Policía</punto1>
+		<punto2>4 plazas</punto2>
+		<punto3>Replace (sheriff)</punto3>
+		<punto4>ELS</punto4>
+        <link>https://discord.gg/zp3AdFm</link>
+	</skin>
+	<skin>
+		<marca>bmw</marca>
+		<logomarca>./informacion_files/bmw-logo.png</logomarca>
+		<titulo>2015 BMW 530D - Guardia Civil</titulo>
+		<imagen>./informacion_files/2bmw530dgc.png</imagen>
+		<punto1>Policía - Guardia Civil de Tráfico</punto1>
+		<punto2>4 plazas</punto2>
+		<punto3>Replace (police)</punto3>
+		<punto4>No ELS</punto4>
+        <link>https://discord.gg/HgA3kFK</link>
+	</skin>
+	<skin>
+		<marca>bmw</marca>
+		<logomarca>./informacion_files/bmw-logo.png</logomarca>
+		<titulo>BMW M5 F90 -  Guardia Civil</titulo>
+		<imagen>./informacion_files/2bmwm5gc.png</imagen>
+		<punto1>Policía - Guardia Civil de Tráfico</punto1>
+		<punto2>4 plazas</punto2>
+		<punto3>Add-on</punto3>
+		<punto4>ELS</punto4>
+        <link>https://discord.gg/yeBEQbf</link>
+	</skin>
+	<skin>
+		<marca>bmw</marca>
+		<logomarca>./informacion_files/bmw-logo.png</logomarca>
+		<titulo>BMW Series 5 G31 - Guardia Civil</titulo>
+		<imagen>./informacion_files/2bmwserie5gc.png</imagen>
+		<punto1>Policía - Guardia Civil de Tráfico</punto1>
+		<punto2>4 plazas</punto2>
+		<punto3>Replace (police)</punto3>
+		<punto4>ELS</punto4>
+        <link>https://discord.gg/SxWc2zc</link>
+	</skin>
+	<skin>
+		<marca>eurocopter</marca>
+		<logomarca>./informacion_files/eurocopter-logo.png</logomarca>
+		<titulo>Eurocopter EC-135 - UHEL Guardia Civil</titulo>
+		<imagen>./informacion_files/2eurocopterec135gc.png</imagen>
+		<punto1>Policía - Guardia Civil</punto1>
+		<punto2>4 plazas</punto2>
+		<punto3>Replace (supervolito)</punto3>
+		<punto4>No ELS</punto4>
+        <link>https://discord.gg/MevFjw9</link>
+	</skin>
+	<skin>
+		<marca>kia</marca>
+		<logomarca>./informacion_files/kia-logo.png</logomarca>
+		<titulo>Kia Stinger -  Guardia Civil</titulo>
+		<imagen>./informacion_files/2kiastingergc.png</imagen>
+		<punto1>Policía - Guardia Civil</punto1>
+		<punto2>4 plazas</punto2>
+		<punto3>Replace (police3)</punto3>
+		<punto4>ELS</punto4>
+        <link>https://discord.gg/4HQsXmr</link>
+	</skin>
+	<skin>
+		<marca>landrover</marca>
+		<logomarca>./informacion_files/land-rover-logo.png</logomarca>
+		<titulo>2013 Land Rover Discovery 4 - Guardia Civil</titulo>
+		<imagen>./informacion_files/2landroverdiscoverygc.png</imagen>
+		<punto1>Policía - Guardia Civil de Tráfico</punto1>
+		<punto2>4 plazas</punto2>
+		<punto3>Replace (sheriff)</punto3>
+		<punto4>ELS</punto4>
+        <link>https://discord.gg/nQQ9xUA</link>
+	</skin>
+	<skin>
+		<marca>vw</marca>
+		<logomarca>./informacion_files/volkswagen-logo.png</logomarca>
+		<titulo>Volkswagen T5 -  Guardia Civil</titulo>
+		<imagen>./informacion_files/2volkswagent5gc.png</imagen>
+		<punto1>Policía - Guardia Civil de Tráfico</punto1>
+		<punto2>4 plazas</punto2>
+		<punto3>Replace (police3)</punto3>
+		<punto4>ELS</punto4>
+        <link>https://discord.gg/DYfVdHt</link>
+	</skin>
+	<skin>
+		<marca>vw</marca>
+		<logomarca>./informacion_files/volkswagen-logo.png</logomarca>
+		<titulo>2016 Volkswagen Touran -  Guardia Civil</titulo>
+		<imagen>./informacion_files/2volkswagentourangc.png</imagen>
+		<punto1>Policía - Guardia Civil</punto1>
+		<punto2>4 plazas</punto2>
+		<punto3>Replace (police2)</punto3>
+		<punto4>ELS</punto4>
+        <link>https://discord.gg/TyzfcS2</link>
+	</skin>
+</skins>

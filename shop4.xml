@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-->
+	<skin>
+		<marca></marca>
+		<logomarca>./informacion_files/***.png</logomarca>
+		<titulo></titulo>
+		<imagen>./informacion_files/***.png</imagen>
+		<punto1></punto1>
+		<punto2></punto2>
+		<punto3></punto3>
+		<punto4></punto4>
+        <link></link>
+	</skin>
+--> 
+<skins>
+	<skin>
+		<marca>bmw</marca>
+		<logomarca>./informacion_files/bmw-logo.png</logomarca>
+		<titulo>BMW R1200 RT - Cuerpo Nacional de Policía</titulo>
+		<imagen>./informacion_files/4bmw1200rtcnp.png</imagen>
+		<punto1>Policía - Cuerpo Nacional de Policía</punto1>
+		<punto2>1 plaza</punto2>
+		<punto3>Replace (policeb)</punto3>
+		<punto4>No ELS</punto4>
+        <link></link>
+	</skin>
+	<skin>
+		<marca>vw</marca>
+		<logomarca>./informacion_files/volkswagen-logo.png</logomarca>
+		<titulo>Volkswagen Amarok - Unidad Militar de Emergencias</titulo>
+		<imagen>./informacion_files/4vwamarokume.png</imagen>
+		<punto1>UME - Unidad Militar de Emergencias</punto1>
+		<punto2>4 plazas</punto2>
+		<punto3>Replace (firetruk)</punto3>
+		<punto4>ELS</punto4>
+        <link></link>
+	</skin>
+</skins>
